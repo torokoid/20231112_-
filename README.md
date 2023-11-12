@@ -116,7 +116,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="fest.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_fest.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
@@ -124,8 +124,7 @@ p.note { display: none; }
 
 
 <!--ここから下が、本体部分-->
-<br><p>寒空の下、かわちふるさとまつりにきてみました。<br>
-たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)vt</p>
+<br><p>寒空の下、かわちふるさとまつりに来てみました。</p>
 
 
 
@@ -155,7 +154,13 @@ p.note { display: none; }
 <a href="20231112_023.JPG" data-lightbox="abc"><img src="20231112_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_024.JPG" data-lightbox="abc"><img src="20231112_024.JPG" alt="サンプル画像" width="900" /></a>
 
+<p>栃木県警音楽隊の生演奏</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZRveAAuLM?si=f2qzVjnJLvNVdbvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p>小学生の男の子が溶接体験</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcCewtGYHAg?si=KuR0ZI45oz-cMw5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)v</p>
 
 <!--本体はここまで-->
 
