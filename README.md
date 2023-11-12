@@ -116,63 +116,44 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="fest.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! かわちふるさとまつり 2023/11/12 @かわち自治センター !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
-<br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
-動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
+<br><p>寒空の下、かわちふるさとまつりにきてみました。<br>
+たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)vt</p>
 
 
 
-<br><br><p>50_Free, 4コースじゅりちゃん１位！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Free, 4コースあかねちゃん１位！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DXHMFTaaQ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/THQiOx6FAlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5QiZsHY9MK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbEPwL7cnR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Free, 24秒台連発！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wbSbAY49JY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Bre, 4コースゆなちゃん！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XDPa_xdtsaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z_tGHILd98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uthXb8uH2aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F0koN6iudc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Back, 3コースゆなちゃん！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eS3LRKIzMjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkqnIiBgEkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K0cBz94_pEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Bata, 成年女子の部</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uBl8DgsweHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>50_Bata, 宇賀神さん？</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HZzPiGfJLDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ODboyR4t7QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>200_Free, 高校生の部, 3コースあかねちゃん, 5コース赤羽くん</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/--vO8NjMwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br><p>200_Free, 成年男子の部, ７コース赤羽さん</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7dMgzCMwGZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><p>以下会場で撮った映像！</p>
+<a href="20231112_001.JPG" data-lightbox="abc"><img src="20231112_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_002.JPG" data-lightbox="abc"><img src="20231112_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_003.JPG" data-lightbox="abc"><img src="20231112_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_004.JPG" data-lightbox="abc"><img src="20231112_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_005.JPG" data-lightbox="abc"><img src="20231112_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_006.JPG" data-lightbox="abc"><img src="20231112_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_007.JPG" data-lightbox="abc"><img src="20231112_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_008.JPG" data-lightbox="abc"><img src="20231112_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_009.JPG" data-lightbox="abc"><img src="20231112_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_010.JPG" data-lightbox="abc"><img src="20231112_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_011.JPG" data-lightbox="abc"><img src="20231112_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_012.JPG" data-lightbox="abc"><img src="20231112_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_013.JPG" data-lightbox="abc"><img src="20231112_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_014.JPG" data-lightbox="abc"><img src="20231112_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_015.JPG" data-lightbox="abc"><img src="20231112_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_016.JPG" data-lightbox="abc"><img src="20231112_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_017.JPG" data-lightbox="abc"><img src="20231112_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_018.JPG" data-lightbox="abc"><img src="20231112_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_019.JPG" data-lightbox="abc"><img src="20231112_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_020.JPG" data-lightbox="abc"><img src="20231112_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_021.JPG" data-lightbox="abc"><img src="20231112_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_022.JPG" data-lightbox="abc"><img src="20231112_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_023.JPG" data-lightbox="abc"><img src="20231112_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231112_024.JPG" data-lightbox="abc"><img src="20231112_024.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
