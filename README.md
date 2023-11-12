@@ -164,8 +164,8 @@ p.note { display: none; }
 
 <p>小学生の男の子が溶接体験</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcCewtGYHAg?si=KuR0ZI45oz-cMw5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-<p>たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)v</p>
+<br><br><br><br><br><br>
+<p><span class="grey">たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)v</span></p>
 
 <!--本体はここまで-->
 
