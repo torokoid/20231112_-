@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! かわちふるさとまつり 2023/11/12 @かわち自治センター !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! かわちふるさとまつり 2023/11/12 @河内地区市民センター !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
