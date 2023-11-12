@@ -131,8 +131,10 @@ p.note { display: none; }
 <br><br><p>以下会場で撮った映像！</p>
 <a href="20231112_001.JPG" data-lightbox="abc"><img src="20231112_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_002.JPG" data-lightbox="abc"><img src="20231112_002.JPG" alt="サンプル画像" width="900" /></a>
+<p>EV体験試乗</p>
 <a href="20231112_003.JPG" data-lightbox="abc"><img src="20231112_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_004.JPG" data-lightbox="abc"><img src="20231112_004.JPG" alt="サンプル画像" width="900" /></a>
+<p>音楽隊のお姉さんは寒そうです</p>
 <a href="20231112_005.JPG" data-lightbox="abc"><img src="20231112_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_006.JPG" data-lightbox="abc"><img src="20231112_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_007.JPG" data-lightbox="abc"><img src="20231112_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -143,10 +145,13 @@ p.note { display: none; }
 <a href="20231112_012.JPG" data-lightbox="abc"><img src="20231112_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_013.JPG" data-lightbox="abc"><img src="20231112_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_014.JPG" data-lightbox="abc"><img src="20231112_014.JPG" alt="サンプル画像" width="900" /></a>
+<p>溶接体験</p>
 <a href="20231112_015.JPG" data-lightbox="abc"><img src="20231112_015.JPG" alt="サンプル画像" width="900" /></a>
+<p>子供達が足場体験</p>
 <a href="20231112_016.JPG" data-lightbox="abc"><img src="20231112_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_017.JPG" data-lightbox="abc"><img src="20231112_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_018.JPG" data-lightbox="abc"><img src="20231112_018.JPG" alt="サンプル画像" width="900" /></a>
+<p>女の子はパトカーに座ってニッコリ</p>
 <a href="20231112_019.JPG" data-lightbox="abc"><img src="20231112_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_020.JPG" data-lightbox="abc"><img src="20231112_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231112_021.JPG" data-lightbox="abc"><img src="20231112_021.JPG" alt="サンプル画像" width="900" /></a>
@@ -159,7 +164,7 @@ p.note { display: none; }
 
 <p>小学生の男の子が溶接体験</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcCewtGYHAg?si=KuR0ZI45oz-cMw5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<br><br>
 <p>たまちゃんがおことこの子達と来てましたね〜モテモテ〜(^_^)v</p>
 
 <!--本体はここまで-->
