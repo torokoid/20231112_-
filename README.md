@@ -133,6 +133,7 @@ p.note { display: none; }
 <a href="20231112_002.JPG" data-lightbox="abc"><img src="20231112_002.JPG" alt="サンプル画像" width="900" /></a>
 <p>EV体験試乗</p>
 <a href="20231112_003.JPG" data-lightbox="abc"><img src="20231112_003.JPG" alt="サンプル画像" width="900" /></a>
+<p>栃木県警音楽隊</p>
 <a href="20231112_004.JPG" data-lightbox="abc"><img src="20231112_004.JPG" alt="サンプル画像" width="900" /></a>
 <p>音楽隊のお姉さんは寒そうです</p>
 <a href="20231112_005.JPG" data-lightbox="abc"><img src="20231112_005.JPG" alt="サンプル画像" width="900" /></a>
